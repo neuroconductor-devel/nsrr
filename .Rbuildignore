@@ -11,3 +11,8 @@
 ^LICENSE\.md$
 ^nsrr\.Rproj$
 ^\.Rproj\.user$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
