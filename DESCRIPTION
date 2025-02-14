@@ -2,33 +2,18 @@ Type: Package
 Package: nsrr
 Title: Interface to National Sleep Research Resource
 Version: 0.2.1
-Authors@R: 
-    person(given = "John",
-           family = "Muschelli",
-           role = c("aut", "cre"),
-           email = "muschellij2@gmail.com",
-           comment = c(ORCID = "0000-0001-6469-1750"))
+Authors@R: person(given = "John", family = "Muschelli", role = c("aut",
+        "cre"), email = "muschellij2@gmail.com", comment = c(ORCID =
+        "0000-0001-6469-1750"))
 Description: Allows users to access data from the National Sleep
-    Research Resource ('NSRR') <https://sleepdata.org/>.
+        Research Resource ('NSRR') <https://sleepdata.org/>.
 License: GPL-3
-Imports: 
-    httr,
-    jsonlite,
-    tools,
-    digest,
-    stats,
-    utils
-Suggests: 
-    covr,
-    DT,
-    knitr,
-    rmarkdown,
-    testthat,
-    xml2,
-    rvest,
-    readr
+Imports: httr, jsonlite, tools, digest, stats, utils
+Suggests: covr, DT, knitr, rmarkdown, testthat, xml2, rvest, readr
 Encoding: UTF-8
 VignetteBuilder: knitr
 URL: https://github.com/muschellij2/nsrr
 BugReports: https://github.com/muschellij2/nsrr/issues
 RoxygenNote: 7.1.1
+Repository: Neuroconductor-Devel
+biocViews: 
