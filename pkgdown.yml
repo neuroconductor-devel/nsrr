@@ -1,0 +1,7 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  dictionary: dictionary.html
+  downloading_data_nsrr: downloading_data_nsrr.html
+last_built: 2025-02-14T19:03Z
